@@ -8,7 +8,7 @@ export interface EntrevistaItem {
 export interface EntrevistaData {
   titulo: string;
   audioTitulo: string;
-  imagenTitulo: string;
+  fondoTitulo: string;
   fondoPregunta: string;
   fondoRespuesta: string;
   items: EntrevistaItem[];
